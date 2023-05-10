@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    margin: 10px;
+}
+
+table tbody td {
+    padding: 10px;
+    text-align: center;
+}
